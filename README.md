@@ -1,4 +1,4 @@
-## Краткое описание портфолио 
+## Краткое описание проектов 
 
 1. **Research-on-the-reliability-of-borrowers**
 
