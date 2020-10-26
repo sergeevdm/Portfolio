@@ -1,3 +1,4 @@
+
 *Если не открываются файлы или не отображаются графики, то спасает эта [ссылка](https://nbviewer.jupyter.org/github/sergeevdm/Portfolio/tree/main/Creating-dashboard-for-custom-events-for-news-aggregator/)* :)
 
 ## Создание дашборда по пользовательским событиям для агрегатора новостей
