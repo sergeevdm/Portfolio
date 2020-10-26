@@ -1,4 +1,4 @@
-*Если не открываются файлы или не отображаются графики, то спасает эта [ссылке](https://nbviewer.jupyter.org/github/sergeevdm/Portfolio/tree/main/Bank_Churn_analysis_AB_test_SQL/)*
+*Если не открываются файлы или не отображаются графики, то спасает эта [ссылка](https://nbviewer.jupyter.org/github/sergeevdm/Portfolio/tree/main/Bank_Churn_analysis_AB_test_SQL/)* :)
 
 # Graduation project
 
